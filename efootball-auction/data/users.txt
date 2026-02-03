@@ -1,0 +1,1 @@
+[{"id":0,"name":"East Bengal","purseRemaining":4000,"players":[]},{"id":1,"name":"Mohan Bagan","purseRemaining":4000,"players":[]},{"id":2,"name":"Mumbai City Fc","purseRemaining":4000,"players":[]}]

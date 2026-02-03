@@ -1,0 +1,11 @@
+========================================================
+            ❌  P L A Y E R   U N S O L D  ❌
+========================================================
+
+Player name
+Base Price : ${Price}
+
+‼️ No bids were placed for this Player
+
+========================================================
+Press enter key to move on to the next Player

@@ -1,0 +1,20 @@
+==================================================
+    📋 A U C T I O N R E G I S T R A T I O N
+==================================================
+
+[?] How many bidders are joining today?
+
+> 3
+
+---
+
+## ENTER DETAILS FOR BIDDER #1
+
+[?] Enter Unique User ID : u_01 
+[?] Enter Display Name : Team Red
+
+✅ User "Team Red" (u_01) registered!
+
+---
+
+ENTER DETAILS FOR BIDDER #2 ...

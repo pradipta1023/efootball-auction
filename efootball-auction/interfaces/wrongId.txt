@@ -1,0 +1,24 @@
+#########################################################
+            ⚽  L I V E   A U C T I O N  ⚽
+#########################################################
+
+=========================================================
+            ⤴ P L A C E   Y O U R   B I D
+=========================================================
+
+  [?] Enter user id to bid:
+> 
+
+... Verifying user id ...
+
+✅ User verified OR Reload page
+
+❌ User id provided was wrong
+  Please recheck and give again
+
+---------------------------------------------------------
+💰 Current Highest : ${currenBid}
+---------------------------------------------------------
+
+  [?] Enter the amount want to add to bid
+> 
